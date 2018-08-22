@@ -1,7 +1,7 @@
 {
   "name": "pwcat",
-  "version": "0.0.0",
-  "license": "MIT",
+  "version": "0.0.1",
+  "license": "public domain",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
